@@ -20,7 +20,7 @@
             <TextView
                 android:layout_width="200dp"
                 android:layout_height="200dp"
-                android:background="#f5f6fa"/>
+                android:background="@drawable/novel1"/>
         </LinearLayout>
     </LinearLayout>
 
@@ -204,22 +204,20 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:orientation="vertical"
-        >
+        android:orientation="vertical">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginRight="15dp"
             android:layout_marginLeft="15dp"
-            android:text="Jangan khawatir tentang apa pun Karena setiap hal kecil akan baik-baik saja. Nyanyikan, Jangan khawatir tentang apa punKarena setiap hal kecil akan baik-baik saja! Bangun pagi ini, tersenyum bersama mentari terbit Tiga burung kecil di depan pintuku Menyanyikan lagu-lagu manis melodi murni Mengucapkan,"
+            android:text="Jangan khawatir tentang apa pun Karena setiap hal kecil akan baik-baik saja. Nyanyikan, Jangan khawatir tentang apa punKarena setiap hal kecil akan baik-baik saja! Bangun pagi ini, tersenyum bersama mentari terbit Tiga burung kecil di depan pintuku Menyanyikan lagu-lagu manis melodi murni Mengucapkan,"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginRight="15dp"
             android:layout_marginTop="10dp"
             android:layout_marginLeft="15dp"
-            android:text="Jangan khawatir tentang apa pun Karena setiap hal kecil akan baik-baik saja. Nyanyikan, Jangan khawatir tentang apa punKarena setiap hal kecil akan baik-baik saja! Bangun pagi ini, tersenyum bersama mentari terbit Tiga burung kecil di depan pintuku Menyanyikan lagu-lagu manis melodi murni Mengucapkan,"
-            />
+            android:text="Jangan khawatir tentang apa pun Karena setiap hal kecil akan baik-baik saja. Nyanyikan, Jangan khawatir tentang apa punKarena setiap hal kecil akan baik-baik saja! Bangun pagi ini, tersenyum bersama mentari terbit Tiga burung kecil di depan pintuku Menyanyikan lagu-lagu manis melodi murni Mengucapkan," />
     </LinearLayout>
 
     <LinearLayout

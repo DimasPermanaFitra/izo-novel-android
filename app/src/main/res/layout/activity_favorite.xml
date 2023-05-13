@@ -52,7 +52,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:textColor="@color/black"
-                android:background="#e84118"/>
+                android:background="@drawable/novel1"/>
         </LinearLayout>
 
         <LinearLayout
@@ -170,7 +170,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:textColor="@color/black"
-                android:background="#e84118"/>
+                android:background="@drawable/novel1"/>
         </LinearLayout>
 
         <LinearLayout
